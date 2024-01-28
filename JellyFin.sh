@@ -15,4 +15,4 @@ Architectures: ${DPKG_ARCHITECTURE}
 Signed-By: /etc/apt/keyrings/jellyfin.gpg
 EOF
 apt update
-apt install jellyfin-server
+apt install jellyfin
